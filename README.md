@@ -1,4 +1,4 @@
-<h1>FourPic1Word Desktop application</h1> 
+<h1>FourPic1Word Game Desktop application</h1> 
 
 <img src="/Snapshot/Capture.JPG">
 <br>
