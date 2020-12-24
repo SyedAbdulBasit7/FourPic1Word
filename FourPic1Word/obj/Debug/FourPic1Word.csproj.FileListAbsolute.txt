@@ -1,0 +1,11 @@
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\bin\Debug\FourPic1Word.exe.config
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\bin\Debug\FourPic1Word.exe
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\bin\Debug\FourPic1Word.pdb
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\obj\Debug\FourPic1Word.csprojAssemblyReference.cache
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\obj\Debug\FourPic1Word.Form1.resources
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\obj\Debug\FourPic1Word.Form2.resources
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\obj\Debug\FourPic1Word.Properties.Resources.resources
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\obj\Debug\FourPic1Word.csproj.GenerateResource.cache
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\obj\Debug\FourPic1Word.csproj.CoreCompileInputs.cache
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\obj\Debug\FourPic1Word.exe
+C:\Users\SYED ABDUL BASIT\source\repos\FourPic1Word\FourPic1Word\obj\Debug\FourPic1Word.pdb
